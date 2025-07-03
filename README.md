@@ -66,9 +66,9 @@ Visit [This Link](https://doc.photonengine.com/fusion/current)
 ```json
 {
     "MatchID": "630a1120-8cf6-49b1-8dda-a75f4e745f44",
-    "PlayersNumber": 2,
-    "WinnerName": "Ahmed",
-    "MatchTime": "56 seconds",
+    "PlayersNumber": 4,
+    "WinnerName": "Axe",
+    "MatchTime": "250 seconds",
     "PlayersRanking": [
         {
             "Nickname": "Axe",
@@ -78,12 +78,12 @@ Visit [This Link](https://doc.photonengine.com/fusion/current)
         {
             "Nickname": "Sword",
             "Rank": 2,
-            "Score": 0
+            "Score": 4
         },
         {
             "Nickname": "Hammer",
             "Rank": 3,
-            "Score": 0
+            "Score": 2
         },
         {
             "Nickname": "Saw",
