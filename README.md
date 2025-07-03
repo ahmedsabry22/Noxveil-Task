@@ -1,9 +1,9 @@
 # Noxveil-Task
 
 ## Technologies User for this project are:
-** Unity 6.0.34f1
+**Unity 6.0.34f1**
 
-** Photon Fusion 2.0.3
+**Photon Fusion 2.0.3**
 
 
 
