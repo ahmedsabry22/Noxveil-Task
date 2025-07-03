@@ -12,16 +12,16 @@ https://ffffffffffffffffffffffffffff
 
 
 ## How To Run this project:
-** Open the project in unity editor
+**Open the project in unity editor**
 
-** Make sure you're on Windows or MacOS Platform
+**Make sure you're on Windows or MacOS Platform**
 
-** Build the project
+**Build the project**
 
-** Go to the built project's folder and run the .exe file
+**Go to the built project's folder and run the .exe file**
 
-** Run the .exe file on four instances in order to test the game
+**Run the .exe file on four instances in order to test the game**
 
-** Enter your nickname and press PLAY button
+**Enter your nickname and press PLAY button**
 
 
