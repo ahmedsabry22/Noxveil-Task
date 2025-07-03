@@ -34,6 +34,12 @@ Visit [This Link](https://doc.photonengine.com/fusion/current)
 
 **- Enter your nickname and press PLAY button.**
 
+**- NOTE: If you want change number of Player who play the game, e.g. if you want two player instead of four player to test easily**
+*- Go to '0 - Lobby' scene.*
+*- In the Hirearchy window, select 'Network Manager' game object.*
+*- You will find 'Network Manager' component on the game oject*
+*- Change 'Max_players_in_room' variable to the number of players you want.*
+
 
 <br>
 <br>

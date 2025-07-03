@@ -8,6 +8,8 @@ public class NicknameHolder : MonoBehaviour
     public TMP_InputField input_field_nickname;
     public Button button_play;
 
+    public static string nickname;
+
 
     private void Start ()
     {
@@ -17,6 +19,7 @@ public class NicknameHolder : MonoBehaviour
 
     public void SetNickname ()
     {
+        nickname = input_field_nickname.text;
         PlayerPrefs.SetString ( "Nickname" , input_field_nickname.text );
     }
 

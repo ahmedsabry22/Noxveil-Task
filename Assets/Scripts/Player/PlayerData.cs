@@ -31,7 +31,7 @@ public class PlayerData : NetworkBehaviour
         if ( HasInputAuthority )
         {
             LocalPlayer = this;
-            Rpc_SetNickname ( PlayerPrefs.GetString ( "Nickname" ) );
+            Rpc_SetNickname ( NicknameHolder.nickname );
         }
 
         Runner.SetPlayerObject ( NetworkManager.Instance.runner.LocalPlayer , Object );

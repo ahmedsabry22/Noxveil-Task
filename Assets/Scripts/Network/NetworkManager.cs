@@ -129,7 +129,7 @@ public class NetworkManager : MonoBehaviour, INetworkRunnerCallbacks
             joined_players.Add ( player );
         }
 
-        if ( runner.IsServer && runner.ActivePlayers.Count () == 2 )
+        if ( runner.IsServer && runner.ActivePlayers.Count () == max_players_in_room )
         {
             if ( runner.IsSceneAuthority )
             {

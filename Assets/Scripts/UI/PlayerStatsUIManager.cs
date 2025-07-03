@@ -14,6 +14,7 @@ public class PlayerStatsUIManager : MonoBehaviour
     private IEnumerator Start ()
     {
         yield return new WaitUntil ( () => NetworkManager.Instance.IsGameReady && GameSceneReferences.Instance.Players_Spawner.ArePlayersReady );
+        yield return new WaitForSeconds ( 3 );
 
         StartCoroutine ( UpdateUICoroutine () );
     }

@@ -991,7 +991,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   panel_searching_players: {fileID: 2031743570}
-  max_players_in_room: 2
+  max_players_in_room: 4
   runner: {fileID: 0}
   joined_players: []
   nickname_holder: {fileID: 77476287}
