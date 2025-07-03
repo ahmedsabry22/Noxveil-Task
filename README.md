@@ -54,7 +54,7 @@ Visit [This Link](https://doc.photonengine.com/fusion/current)
 
 
 ## A match you play has some data to be saved:
-**You can find the match data in**
+**You can find the match data in:-**
 
 
 *"your project's folder -> Noxveil Task_Data -> StreamingAssets -> last_match.json"*
@@ -111,7 +111,7 @@ Visit [This Link](https://doc.photonengine.com/fusion/current)
 <br>
 
 
-#### These issues can all be handled and fixed in the future
+### These issues can all be handled and fixed in the future
 
 
 <br>
@@ -120,4 +120,4 @@ Visit [This Link](https://doc.photonengine.com/fusion/current)
 <br>
 
 
-# My Best Regards :)
+### My Best Regards :)
