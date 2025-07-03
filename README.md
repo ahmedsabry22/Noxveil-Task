@@ -100,11 +100,11 @@ Visit [This Link](https://doc.photonengine.com/fusion/current)
 ## Are there any expected bugs in the current version of the game?
 **- YES, because the time was tight, I didn't handle the logic of unexpected behaviours like:**
 
-*If a player leaves the game, I didn't handle that*
+*- If a player leaves the game, I didn't handle that*
 
-*The Master (Host) leaves the game, The Host authority must be switched to another player, I didn't handle that*
+*- The Master (Host) leaves the game, The Host authority must be switched to another player, I didn't handle that*
 
-*If a player's internet connection drops, I didn't handle that*
+*- If a player's internet connection drops, I didn't handle that*
 
 
 <br>
