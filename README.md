@@ -40,7 +40,7 @@ Visit [This Link](https://doc.photonengine.com/fusion/current)
 
 *- In the Hirearchy window, select 'Network Manager' game object.*
 
-*- You will find 'Network Manager' component on the game oject*
+*- You will find 'Network Manager' component on the game object.*
 
 *- Change 'Max_players_in_room' variable to the number of players you want.*
 
