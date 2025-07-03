@@ -40,7 +40,7 @@ Visit [This Link](https://doc.photonengine.com/fusion/current)
 
 
 ### I use Fusion (Host) mode, not (Shared Mode) becuase:
-**- Host mode is ultimate mode of most multiplayer games.**
+**- Host mode is the ultimate mode of most multiplayer games.**
 
 **- Since one player acts as the server, and all network logic must pass through him. That makes the game more secure, reliable, and stable**
 
@@ -54,12 +54,45 @@ Visit [This Link](https://doc.photonengine.com/fusion/current)
 
 
 ## A match you play has some data to be saved
-**You can find the match data in your**
+**You can find the match data in**
+
+
 *"your project's folder -> Noxveil Task_Data -> StreamingAssets -> last_match.json"*
 
 **Open that file and you will see all the match data you need**
 
+**A sample of match saved data is as follows:**
 
+```json
+{
+    "MatchID": "630a1120-8cf6-49b1-8dda-a75f4e745f44",
+    "PlayersNumber": 2,
+    "WinnerName": "Ahmed",
+    "MatchTime": "56 seconds",
+    "PlayersRanking": [
+        {
+            "Nickname": "Axe",
+            "Rank": 1,
+            "Score": 5
+        },
+        {
+            "Nickname": "Sword",
+            "Rank": 2,
+            "Score": 0
+        },
+        {
+            "Nickname": "Hammer",
+            "Rank": 3,
+            "Score": 0
+        },
+        {
+            "Nickname": "Saw",
+            "Rank": 4,
+            "Score": 0
+        }
+    ]
+}
+```
 <br>
 <br>
 
