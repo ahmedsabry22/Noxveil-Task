@@ -1,17 +1,24 @@
 # Noxveil-Task
 
+<br>
+<br>
+
 ## Technologies User for this project are:
 **Unity 6.0.34f1**
 
 **Photon Fusion 2.0.3**
 
 
+<br>
+<br>
+
 
 ## To Watch a Demo video, Click this link:
 Visit [This Link](https://doc.photonengine.com/fusion/current)
 
 
-
+<br>
+<br>
 
 
 ## How To Run this project:
@@ -28,6 +35,10 @@ Visit [This Link](https://doc.photonengine.com/fusion/current)
 **- Enter your nickname and press PLAY button**
 
 
+<br>
+<br>
+
+
 ### I use Fusion (Host) mode, not (Shared Mode) becuase:
 **- Host mode is ultimate mode of most multiplayer games.**
 
@@ -38,11 +49,19 @@ Visit [This Link](https://doc.photonengine.com/fusion/current)
 **- Finally, we use Physics in the game to move the players, and Host mode gives us more reliable Physics behaviour and better synchronizing**
 
 
+<br>
+<br>
+
+
 ## A match you play has some data to be saved
 **You can find the match data in your**
 *"your project's folder -> Noxveil Task_Data -> StreamingAssets -> last_match.json"*
 
 **Open that file and you will see all the match data you need**
+
+
+<br>
+<br>
 
 
 ## Are there any expected bugs in the current version of the game?
@@ -55,9 +74,17 @@ Visit [This Link](https://doc.photonengine.com/fusion/current)
 *If a player's internet connection drops, I didn't handle that*
 
 
+<br>
+<br>
+
 
 #### These issues can all be handled and fixed in the future
 
+
+<br>
+<br>
+<br>
+<br>
 
 
 # My Best Regards :)
