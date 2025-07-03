@@ -8,7 +8,10 @@
 
 
 ## To Watch a Demo video, Click this link:
-https://ffffffffffffffffffffffffffff
+Visit [This Link](https://doc.photonengine.com/fusion/current)
+
+
+
 
 
 ## How To Run this project:
@@ -25,3 +28,31 @@ https://ffffffffffffffffffffffffffff
 **Enter your nickname and press PLAY button**
 
 
+#### I use Fusion (Host) mode, not (Shared Mode) becuase:
+**Host mode is ultimate mode of most multiplayer games.**
+
+**Since one player acts as the server, and all network logic must pass through him. That makes the game more secure, reliable, and stable**
+
+**Also, Host mode reduces the ability of cheating**
+
+**Finally, we use Physics in the game to move the players, and Host mode gives us more reliable Physics behaviour and better synchronizing**
+
+
+## A match you play has some data to be saved
+**You can find the match data in your "project's folder -> Noxveil Task_Data -> StreamingAssets -> last_match.json"**
+
+**Open that file and you will see all the match data you need**
+
+
+## Are there any expected bugs in the current version of the game?
+**Yes, because the time was tight, I didn't handle the logic of unexpected behaviours like:**
+
+**If a player leaves the game, I didn't handle that**
+
+**The Master (Host) leaves the game, The Host authority must be switched to another player, I didn't handle that**
+
+**If a player's internet connection drops, I didn't handle that**
+
+
+
+#### These issues can all be handled and fixed in the future
