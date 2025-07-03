@@ -1,0 +1,18 @@
+{
+    "MatchID": "630a1120-8cf6-49b1-8dda-a75f4e745f44",
+    "PlayersNumber": 2,
+    "WinnerName": "Ahmed",
+    "MatchTime": "51 seconds",
+    "PlayersRanking": [
+        {
+            "Nickname": "Ahmed",
+            "Rank": 1,
+            "Score": 5
+        },
+        {
+            "Nickname": "Noon",
+            "Rank": 2,
+            "Score": 0
+        }
+    ]
+}
